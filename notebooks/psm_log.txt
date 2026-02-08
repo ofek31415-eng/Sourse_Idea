@@ -134,3 +134,115 @@
    [Year 2011] Dropped: 2   | Kept: 121 (Low Quality Match)
    [Year 2013] Dropped: 1   | Kept: 122 (Low Quality Match)
    [Year 2014] Dropped: 2   | Kept: 121 (Low Quality Match)
+
+--- Starting PSM: Mode=static, Base=range(1968, 1973) ---
+   [Year BASE] Dropped: 15  | Kept: 108 (Low Quality Match)
+   -> Selected 151 industries total.
+
+--- Starting PSM: Mode=static, Base=range(1958, 1973) ---
+   [Year BASE] Dropped: 11  | Kept: 112 (Low Quality Match)
+   -> Selected 158 industries total.
+
+--- Starting PSM: Mode=static, Base=1972 ---
+   [Year BASE] Dropped: 12  | Kept: 111 (Low Quality Match)
+   -> Selected 151 industries total.
+
+--- Starting PSM: Mode=dynamic, Base=None ---
+   Year       Status                        
+   [Year 1958] Dropped: 5   | Kept: 118 (Low Quality Match)
+   [Year 1959] Dropped: 5   | Kept: 118 (Low Quality Match)
+   [Year 1960] Dropped: 5   | Kept: 118 (Low Quality Match)
+   [Year 1961] Dropped: 8   | Kept: 115 (Low Quality Match)
+   [Year 1962] Dropped: 6   | Kept: 117 (Low Quality Match)
+   [Year 1963] Dropped: 7   | Kept: 116 (Low Quality Match)
+   [Year 1964] Dropped: 11  | Kept: 112 (Low Quality Match)
+   [Year 1965] Dropped: 9   | Kept: 114 (Low Quality Match)
+   [Year 1966] Dropped: 9   | Kept: 114 (Low Quality Match)
+   [Year 1967] Dropped: 12  | Kept: 111 (Low Quality Match)
+   [Year 1968] Dropped: 12  | Kept: 111 (Low Quality Match)
+   [Year 1969] Dropped: 13  | Kept: 110 (Low Quality Match)
+   [Year 1970] Dropped: 14  | Kept: 109 (Low Quality Match)
+   [Year 1971] Dropped: 20  | Kept: 103 (Low Quality Match)
+   [Year 1972] Dropped: 12  | Kept: 111 (Low Quality Match)
+   [Year 1973] Dropped: 6   | Kept: 117 (Low Quality Match)
+   [Year 1974] Dropped: 10  | Kept: 113 (Low Quality Match)
+   [Year 1975] Dropped: 14  | Kept: 109 (Low Quality Match)
+   [Year 1976] Dropped: 13  | Kept: 110 (Low Quality Match)
+   [Year 1978] Dropped: 10  | Kept: 113 (Low Quality Match)
+   [Year 1979] Dropped: 7   | Kept: 116 (Low Quality Match)
+   [Year 1980] Dropped: 15  | Kept: 108 (Low Quality Match)
+   [Year 1981] Dropped: 19  | Kept: 104 (Low Quality Match)
+   [Year 1982] Dropped: 22  | Kept: 101 (Low Quality Match)
+   [Year 1983] Dropped: 32  | Kept: 91  (Low Quality Match)
+   [Year 1984] Dropped: 21  | Kept: 102 (Low Quality Match)
+   [Year 1985] Dropped: 16  | Kept: 107 (Low Quality Match)
+   [Year 1986] Dropped: 26  | Kept: 97  (Low Quality Match)
+   [Year 1987] Dropped: 16  | Kept: 107 (Low Quality Match)
+   [Year 1988] Dropped: 9   | Kept: 114 (Low Quality Match)
+   [Year 1989] Dropped: 21  | Kept: 102 (Low Quality Match)
+   [Year 1990] Dropped: 22  | Kept: 101 (Low Quality Match)
+   [Year 1991] Dropped: 18  | Kept: 105 (Low Quality Match)
+   [Year 1992] Dropped: 14  | Kept: 109 (Low Quality Match)
+   [Year 1993] Dropped: 21  | Kept: 102 (Low Quality Match)
+   [Year 1994] Dropped: 22  | Kept: 101 (Low Quality Match)
+   [Year 1995] Dropped: 15  | Kept: 108 (Low Quality Match)
+   [Year 1996] Dropped: 27  | Kept: 96  (Low Quality Match)
+   [Year 1997] Dropped: 6   | Kept: 117 (Low Quality Match)
+   [Year 1998] Dropped: 13  | Kept: 110 (Low Quality Match)
+   [Year 1999] Dropped: 14  | Kept: 109 (Low Quality Match)
+
+--- Starting PSM: Mode=static, Base=range(1968, 1973) ---
+   [Year BASE] Dropped: 15  | Kept: 108 (Low Quality Match)
+   -> Selected 151 industries total.
+
+--- Starting PSM: Mode=static, Base=range(1958, 1973) ---
+   [Year BASE] Dropped: 11  | Kept: 112 (Low Quality Match)
+   -> Selected 158 industries total.
+
+--- Starting PSM: Mode=static, Base=1972 ---
+   [Year BASE] Dropped: 12  | Kept: 111 (Low Quality Match)
+   -> Selected 151 industries total.
+
+--- Starting PSM: Mode=dynamic, Base=None ---
+   Year       Status                        
+   [Year 1958] Dropped: 5   | Kept: 118 (Low Quality Match)
+   [Year 1959] Dropped: 5   | Kept: 118 (Low Quality Match)
+   [Year 1960] Dropped: 5   | Kept: 118 (Low Quality Match)
+   [Year 1961] Dropped: 8   | Kept: 115 (Low Quality Match)
+   [Year 1962] Dropped: 6   | Kept: 117 (Low Quality Match)
+   [Year 1963] Dropped: 7   | Kept: 116 (Low Quality Match)
+   [Year 1964] Dropped: 11  | Kept: 112 (Low Quality Match)
+   [Year 1965] Dropped: 9   | Kept: 114 (Low Quality Match)
+   [Year 1966] Dropped: 9   | Kept: 114 (Low Quality Match)
+   [Year 1967] Dropped: 12  | Kept: 111 (Low Quality Match)
+   [Year 1968] Dropped: 12  | Kept: 111 (Low Quality Match)
+   [Year 1969] Dropped: 13  | Kept: 110 (Low Quality Match)
+   [Year 1970] Dropped: 14  | Kept: 109 (Low Quality Match)
+   [Year 1971] Dropped: 20  | Kept: 103 (Low Quality Match)
+   [Year 1972] Dropped: 12  | Kept: 111 (Low Quality Match)
+   [Year 1973] Dropped: 6   | Kept: 117 (Low Quality Match)
+   [Year 1974] Dropped: 10  | Kept: 113 (Low Quality Match)
+   [Year 1975] Dropped: 14  | Kept: 109 (Low Quality Match)
+   [Year 1976] Dropped: 13  | Kept: 110 (Low Quality Match)
+   [Year 1978] Dropped: 10  | Kept: 113 (Low Quality Match)
+   [Year 1979] Dropped: 7   | Kept: 116 (Low Quality Match)
+   [Year 1980] Dropped: 15  | Kept: 108 (Low Quality Match)
+   [Year 1981] Dropped: 19  | Kept: 104 (Low Quality Match)
+   [Year 1982] Dropped: 22  | Kept: 101 (Low Quality Match)
+   [Year 1983] Dropped: 32  | Kept: 91  (Low Quality Match)
+   [Year 1984] Dropped: 21  | Kept: 102 (Low Quality Match)
+   [Year 1985] Dropped: 16  | Kept: 107 (Low Quality Match)
+   [Year 1986] Dropped: 26  | Kept: 97  (Low Quality Match)
+   [Year 1987] Dropped: 16  | Kept: 107 (Low Quality Match)
+   [Year 1988] Dropped: 9   | Kept: 114 (Low Quality Match)
+   [Year 1989] Dropped: 21  | Kept: 102 (Low Quality Match)
+   [Year 1990] Dropped: 22  | Kept: 101 (Low Quality Match)
+   [Year 1991] Dropped: 18  | Kept: 105 (Low Quality Match)
+   [Year 1992] Dropped: 14  | Kept: 109 (Low Quality Match)
+   [Year 1993] Dropped: 21  | Kept: 102 (Low Quality Match)
+   [Year 1994] Dropped: 22  | Kept: 101 (Low Quality Match)
+   [Year 1995] Dropped: 15  | Kept: 108 (Low Quality Match)
+   [Year 1996] Dropped: 27  | Kept: 96  (Low Quality Match)
+   [Year 1997] Dropped: 6   | Kept: 117 (Low Quality Match)
+   [Year 1998] Dropped: 13  | Kept: 110 (Low Quality Match)
+   [Year 1999] Dropped: 14  | Kept: 109 (Low Quality Match)
