@@ -14,7 +14,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.839
 Model:                            OLS   Adj. R-squared:                  0.752
 Method:                 Least Squares   F-statistic:                 2.405e+12
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           4.16e-13
-Time:                        07:34:02   Log-Likelihood:                 164.80
+Time:                        13:01:24   Log-Likelihood:                 164.80
 No. Observations:                 177   AIC:                            -203.6
 Df Residuals:                     114   BIC:                            -3.511
 Df Model:                          62                                         
@@ -108,7 +108,7 @@ Dep. Variable:     real_energy_intensity   R-squared:                       0.90
 Model:                               OLS   Adj. R-squared:                  0.860
 Method:                    Least Squares   F-statistic:                -7.395e+11
 Date:                   Sun, 08 Feb 2026   Prob (F-statistic):               1.00
-Time:                           07:34:02   Log-Likelihood:                 220.72
+Time:                           13:01:24   Log-Likelihood:                 220.72
 No. Observations:                    177   AIC:                            -315.4
 Df Residuals:                        114   BIC:                            -115.4
 Df Model:                             62                                         
@@ -202,7 +202,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.359
 Model:                            OLS   Adj. R-squared:                 -0.025
 Method:                 Least Squares   F-statistic:                   0.03537
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):              0.966
-Time:                        07:34:03   Log-Likelihood:                -304.60
+Time:                        13:01:24   Log-Likelihood:                -304.60
 No. Observations:                  81   AIC:                             671.2
 Df Residuals:                      50   BIC:                             745.4
 Df Model:                          30                                         
@@ -268,7 +268,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.909
 Model:                            OLS   Adj. R-squared:                  0.859
 Method:                 Least Squares   F-statistic:                 9.250e+13
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           1.08e-14
-Time:                        07:34:03   Log-Likelihood:                 194.85
+Time:                        13:01:25   Log-Likelihood:                 194.85
 No. Observations:                 177   AIC:                            -263.7
 Df Residuals:                     114   BIC:                            -63.61
 Df Model:                          62                                         
@@ -362,7 +362,7 @@ Dep. Variable:     real_energy_intensity   R-squared:                       0.91
 Model:                               OLS   Adj. R-squared:                  0.862
 Method:                    Least Squares   F-statistic:                 5.758e+11
 Date:                   Sun, 08 Feb 2026   Prob (F-statistic):           1.74e-12
-Time:                           07:34:03   Log-Likelihood:                 222.10
+Time:                           13:01:25   Log-Likelihood:                 222.10
 No. Observations:                    177   AIC:                            -318.2
 Df Residuals:                        114   BIC:                            -118.1
 Df Model:                             62                                         
@@ -456,7 +456,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.338
 Model:                            OLS   Adj. R-squared:                 -0.059
 Method:                 Least Squares   F-statistic:                   0.07083
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):              0.934
-Time:                        07:34:03   Log-Likelihood:                -302.16
+Time:                        13:01:25   Log-Likelihood:                -302.16
 No. Observations:                  81   AIC:                             666.3
 Df Residuals:                      50   BIC:                             740.5
 Df Model:                          30                                         
@@ -522,7 +522,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.794
 Model:                            OLS   Adj. R-squared:                  0.755
 Method:                 Least Squares   F-statistic:                     9.002
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):            0.00855
-Time:                        07:34:03   Log-Likelihood:                 375.38
+Time:                        13:01:25   Log-Likelihood:                 375.38
 No. Observations:                 413   AIC:                            -616.8
 Df Residuals:                     346   BIC:                            -347.2
 Df Model:                          66                                         
@@ -620,7 +620,7 @@ Dep. Variable:     real_energy_intensity   R-squared:                       0.90
 Model:                               OLS   Adj. R-squared:                  0.886
 Method:                    Least Squares   F-statistic:                 6.715e+12
 Date:                   Sun, 08 Feb 2026   Prob (F-statistic):           3.30e-38
-Time:                           07:34:03   Log-Likelihood:                 614.34
+Time:                           13:01:25   Log-Likelihood:                 614.34
 No. Observations:                    413   AIC:                            -1095.
 Df Residuals:                        346   BIC:                            -825.1
 Df Model:                             66                                         
@@ -718,7 +718,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.276
 Model:                            OLS   Adj. R-squared:                  0.116
 Method:                 Least Squares   F-statistic:                     1.208
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):              0.412
-Time:                        07:34:03   Log-Likelihood:                -696.02
+Time:                        13:01:25   Log-Likelihood:                -696.02
 No. Observations:                 189   AIC:                             1462.
 Df Residuals:                     154   BIC:                             1576.
 Df Model:                          34                                         
@@ -788,7 +788,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.825
 Model:                            OLS   Adj. R-squared:                  0.802
 Method:                 Least Squares   F-statistic:                     64.09
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           4.41e-18
-Time:                        07:34:03   Log-Likelihood:                 578.82
+Time:                        13:01:25   Log-Likelihood:                 578.82
 No. Observations:                 734   AIC:                            -981.6
 Df Residuals:                     646   BIC:                            -577.0
 Df Model:                          87                                         
@@ -907,7 +907,7 @@ Dep. Variable:     real_energy_intensity   R-squared:                       0.90
 Model:                               OLS   Adj. R-squared:                  0.891
 Method:                    Least Squares   F-statistic:                 1.363e+12
 Date:                   Sun, 08 Feb 2026   Prob (F-statistic):          2.51e-157
-Time:                           07:34:03   Log-Likelihood:                 1166.8
+Time:                           13:01:26   Log-Likelihood:                 1166.8
 No. Observations:                    734   AIC:                            -2158.
 Df Residuals:                        646   BIC:                            -1753.
 Df Model:                             87                                         
@@ -1026,7 +1026,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.505
 Model:                            OLS   Adj. R-squared:                  0.384
 Method:                 Least Squares   F-statistic:                     105.1
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           1.38e-13
-Time:                        07:34:03   Log-Likelihood:                -911.41
+Time:                        13:01:26   Log-Likelihood:                -911.41
 No. Observations:                 230   AIC:                             1915.
 Df Residuals:                     184   BIC:                             2073.
 Df Model:                          45                                         

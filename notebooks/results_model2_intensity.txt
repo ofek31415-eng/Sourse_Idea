@@ -12,7 +12,7 @@ Dep. Variable:     real_energy_intensity   R-squared:                       0.89
 Model:                               OLS   Adj. R-squared:                  0.890
 Method:                    Least Squares   F-statistic:                     14.45
 Date:                   Sun, 08 Feb 2026   Prob (F-statistic):           2.18e-35
-Time:                           07:33:53   Log-Likelihood:                 13817.
+Time:                           13:00:58   Log-Likelihood:                 13817.
 No. Observations:                   6342   AIC:                        -2.725e+04
 Df Residuals:                       6148   BIC:                        -2.594e+04
 Df Model:                            193                                         
@@ -239,7 +239,7 @@ Dep. Variable:     real_energy_intensity   R-squared:                       0.89
 Model:                               OLS   Adj. R-squared:                  0.895
 Method:                    Least Squares   F-statistic:                     12.69
 Date:                   Sun, 08 Feb 2026   Prob (F-statistic):           4.07e-33
-Time:                           07:33:54   Log-Likelihood:                 14394.
+Time:                           13:01:00   Log-Likelihood:                 14394.
 No. Observations:                   6636   AIC:                        -2.839e+04
 Df Residuals:                       6435   BIC:                        -2.702e+04
 Df Model:                            200                                         
@@ -473,7 +473,7 @@ Dep. Variable:     real_energy_intensity   R-squared:                       0.86
 Model:                               OLS   Adj. R-squared:                  0.856
 Method:                    Least Squares   F-statistic:                     15.31
 Date:                   Sun, 08 Feb 2026   Prob (F-statistic):           7.96e-37
-Time:                           07:33:54   Log-Likelihood:                 11475.
+Time:                           13:01:01   Log-Likelihood:                 11475.
 No. Observations:                   6342   AIC:                        -2.256e+04
 Df Residuals:                       6148   BIC:                        -2.125e+04
 Df Model:                            193                                         
@@ -700,7 +700,7 @@ Dep. Variable:     real_energy_intensity   R-squared:                       0.97
 Model:                               OLS   Adj. R-squared:                  0.977
 Method:                    Least Squares   F-statistic:                 1.422e+05
 Date:                   Sun, 08 Feb 2026   Prob (F-statistic):               0.00
-Time:                           07:33:55   Log-Likelihood:                 19532.
+Time:                           13:01:05   Log-Likelihood:                 19532.
 No. Observations:                   9178   AIC:                        -3.830e+04
 Df Residuals:                       8797   BIC:                        -3.559e+04
 Df Model:                            380                                         

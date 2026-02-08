@@ -15,7 +15,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.250
 Model:                            OLS   Adj. R-squared:                  0.216
 Method:                 Least Squares   F-statistic:                     28.63
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           8.81e-47
-Time:                        07:33:56   Log-Likelihood:                -15839.
+Time:                        13:01:07   Log-Likelihood:                -15839.
 No. Observations:                4077   AIC:                         3.204e+04
 Df Residuals:                    3898   BIC:                         3.317e+04
 Df Model:                         178                                         
@@ -226,7 +226,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.259
 Model:                            OLS   Adj. R-squared:                  0.225
 Method:                 Least Squares   F-statistic:                     27.33
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           8.14e-47
-Time:                        07:33:56   Log-Likelihood:                -16526.
+Time:                        13:01:08   Log-Likelihood:                -16526.
 No. Observations:                4266   AIC:                         3.342e+04
 Df Residuals:                    4080   BIC:                         3.461e+04
 Df Model:                         185                                         
@@ -444,7 +444,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.262
 Model:                            OLS   Adj. R-squared:                  0.228
 Method:                 Least Squares   F-statistic:                     29.93
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           5.80e-48
-Time:                        07:33:57   Log-Likelihood:                -15687.
+Time:                        13:01:09   Log-Likelihood:                -15687.
 No. Observations:                4077   AIC:                         3.173e+04
 Df Residuals:                    3898   BIC:                         3.286e+04
 Df Model:                         178                                         
@@ -655,7 +655,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.244
 Model:                            OLS   Adj. R-squared:                  0.199
 Method:                 Least Squares   F-statistic:                     163.8
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):          2.47e-168
-Time:                        07:33:58   Log-Likelihood:                -23680.
+Time:                        13:01:12   Log-Likelihood:                -23680.
 No. Observations:                5986   AIC:                         4.804e+04
 Df Residuals:                    5646   BIC:                         5.032e+04
 Df Model:                         339                                         
@@ -1031,7 +1031,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.204
 Model:                            OLS   Adj. R-squared:                  0.179
 Method:                 Least Squares   F-statistic:                     26.87
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           2.32e-51
-Time:                        07:33:58   Log-Likelihood:                -24072.
+Time:                        13:01:14   Log-Likelihood:                -24072.
 No. Observations:                6191   AIC:                         4.853e+04
 Df Residuals:                    5998   BIC:                         4.983e+04
 Df Model:                         192                                         
@@ -1256,7 +1256,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.210
 Model:                            OLS   Adj. R-squared:                  0.185
 Method:                 Least Squares   F-statistic:                     24.10
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           7.88e-50
-Time:                        07:33:59   Log-Likelihood:                -25196.
+Time:                        13:01:16   Log-Likelihood:                -25196.
 No. Observations:                6478   AIC:                         5.079e+04
 Df Residuals:                    6278   BIC:                         5.215e+04
 Df Model:                         199                                         
@@ -1488,7 +1488,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.210
 Model:                            OLS   Adj. R-squared:                  0.185
 Method:                 Least Squares   F-statistic:                     26.95
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):           1.94e-51
-Time:                        07:33:59   Log-Likelihood:                -23917.
+Time:                        13:01:17   Log-Likelihood:                -23917.
 No. Observations:                6191   AIC:                         4.822e+04
 Df Residuals:                    5998   BIC:                         4.952e+04
 Df Model:                         192                                         
@@ -1713,7 +1713,7 @@ Dep. Variable:            vadd_growth   R-squared:                       0.210
 Model:                            OLS   Adj. R-squared:                  0.175
 Method:                 Least Squares   F-statistic:                     78.03
 Date:                Sun, 08 Feb 2026   Prob (F-statistic):          6.22e-148
-Time:                        07:34:00   Log-Likelihood:                -35501.
+Time:                        13:01:20   Log-Likelihood:                -35501.
 No. Observations:                8940   AIC:                         7.176e+04
 Df Residuals:                    8562   BIC:                         7.444e+04
 Df Model:                         377                                         
