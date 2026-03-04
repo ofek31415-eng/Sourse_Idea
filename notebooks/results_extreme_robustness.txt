@@ -13,8 +13,8 @@ Obs: 177
 Dep. Variable:                   tfp5   R-squared:                       0.839
 Model:                            OLS   Adj. R-squared:                  0.752
 Method:                 Least Squares   F-statistic:                 2.405e+12
-Date:                Sun, 08 Feb 2026   Prob (F-statistic):           4.16e-13
-Time:                        13:01:24   Log-Likelihood:                 164.80
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):           4.16e-13
+Time:                        16:57:57   Log-Likelihood:                 164.80
 No. Observations:                 177   AIC:                            -203.6
 Df Residuals:                     114   BIC:                            -3.511
 Df Model:                          62                                         
@@ -107,8 +107,8 @@ Obs: 177
 Dep. Variable:     real_energy_intensity   R-squared:                       0.909
 Model:                               OLS   Adj. R-squared:                  0.860
 Method:                    Least Squares   F-statistic:                -7.395e+11
-Date:                   Sun, 08 Feb 2026   Prob (F-statistic):               1.00
-Time:                           13:01:24   Log-Likelihood:                 220.72
+Date:                   Wed, 04 Mar 2026   Prob (F-statistic):               1.00
+Time:                           16:57:57   Log-Likelihood:                 220.72
 No. Observations:                    177   AIC:                            -315.4
 Df Residuals:                        114   BIC:                            -115.4
 Df Model:                             62                                         
@@ -201,8 +201,8 @@ Obs: 81
 Dep. Variable:            vadd_growth   R-squared:                       0.359
 Model:                            OLS   Adj. R-squared:                 -0.025
 Method:                 Least Squares   F-statistic:                   0.03537
-Date:                Sun, 08 Feb 2026   Prob (F-statistic):              0.966
-Time:                        13:01:24   Log-Likelihood:                -304.60
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):              0.966
+Time:                        16:57:57   Log-Likelihood:                -304.60
 No. Observations:                  81   AIC:                             671.2
 Df Residuals:                      50   BIC:                             745.4
 Df Model:                          30                                         
@@ -267,8 +267,8 @@ Obs: 177
 Dep. Variable:                   tfp5   R-squared:                       0.909
 Model:                            OLS   Adj. R-squared:                  0.859
 Method:                 Least Squares   F-statistic:                 9.250e+13
-Date:                Sun, 08 Feb 2026   Prob (F-statistic):           1.08e-14
-Time:                        13:01:25   Log-Likelihood:                 194.85
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):           1.08e-14
+Time:                        16:57:57   Log-Likelihood:                 194.85
 No. Observations:                 177   AIC:                            -263.7
 Df Residuals:                     114   BIC:                            -63.61
 Df Model:                          62                                         
@@ -361,8 +361,8 @@ Obs: 177
 Dep. Variable:     real_energy_intensity   R-squared:                       0.911
 Model:                               OLS   Adj. R-squared:                  0.862
 Method:                    Least Squares   F-statistic:                 5.758e+11
-Date:                   Sun, 08 Feb 2026   Prob (F-statistic):           1.74e-12
-Time:                           13:01:25   Log-Likelihood:                 222.10
+Date:                   Wed, 04 Mar 2026   Prob (F-statistic):           1.74e-12
+Time:                           16:57:57   Log-Likelihood:                 222.10
 No. Observations:                    177   AIC:                            -318.2
 Df Residuals:                        114   BIC:                            -118.1
 Df Model:                             62                                         
@@ -455,8 +455,8 @@ Obs: 81
 Dep. Variable:            vadd_growth   R-squared:                       0.338
 Model:                            OLS   Adj. R-squared:                 -0.059
 Method:                 Least Squares   F-statistic:                   0.07083
-Date:                Sun, 08 Feb 2026   Prob (F-statistic):              0.934
-Time:                        13:01:25   Log-Likelihood:                -302.16
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):              0.934
+Time:                        16:57:57   Log-Likelihood:                -302.16
 No. Observations:                  81   AIC:                             666.3
 Df Residuals:                      50   BIC:                             740.5
 Df Model:                          30                                         
@@ -521,8 +521,8 @@ Obs: 413
 Dep. Variable:                   tfp5   R-squared:                       0.794
 Model:                            OLS   Adj. R-squared:                  0.755
 Method:                 Least Squares   F-statistic:                     9.002
-Date:                Sun, 08 Feb 2026   Prob (F-statistic):            0.00855
-Time:                        13:01:25   Log-Likelihood:                 375.38
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):            0.00855
+Time:                        16:57:57   Log-Likelihood:                 375.38
 No. Observations:                 413   AIC:                            -616.8
 Df Residuals:                     346   BIC:                            -347.2
 Df Model:                          66                                         
@@ -619,8 +619,8 @@ Obs: 413
 Dep. Variable:     real_energy_intensity   R-squared:                       0.904
 Model:                               OLS   Adj. R-squared:                  0.886
 Method:                    Least Squares   F-statistic:                 6.715e+12
-Date:                   Sun, 08 Feb 2026   Prob (F-statistic):           3.30e-38
-Time:                           13:01:25   Log-Likelihood:                 614.34
+Date:                   Wed, 04 Mar 2026   Prob (F-statistic):           3.30e-38
+Time:                           16:57:57   Log-Likelihood:                 614.34
 No. Observations:                    413   AIC:                            -1095.
 Df Residuals:                        346   BIC:                            -825.1
 Df Model:                             66                                         
@@ -717,8 +717,8 @@ Obs: 189
 Dep. Variable:            vadd_growth   R-squared:                       0.276
 Model:                            OLS   Adj. R-squared:                  0.116
 Method:                 Least Squares   F-statistic:                     1.208
-Date:                Sun, 08 Feb 2026   Prob (F-statistic):              0.412
-Time:                        13:01:25   Log-Likelihood:                -696.02
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):              0.412
+Time:                        16:57:57   Log-Likelihood:                -696.02
 No. Observations:                 189   AIC:                             1462.
 Df Residuals:                     154   BIC:                             1576.
 Df Model:                          34                                         
@@ -787,8 +787,8 @@ Obs: 734
 Dep. Variable:                   tfp5   R-squared:                       0.825
 Model:                            OLS   Adj. R-squared:                  0.802
 Method:                 Least Squares   F-statistic:                     64.09
-Date:                Sun, 08 Feb 2026   Prob (F-statistic):           4.41e-18
-Time:                        13:01:25   Log-Likelihood:                 578.82
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):           4.41e-18
+Time:                        16:57:57   Log-Likelihood:                 578.82
 No. Observations:                 734   AIC:                            -981.6
 Df Residuals:                     646   BIC:                            -577.0
 Df Model:                          87                                         
@@ -906,8 +906,8 @@ Obs: 734
 Dep. Variable:     real_energy_intensity   R-squared:                       0.904
 Model:                               OLS   Adj. R-squared:                  0.891
 Method:                    Least Squares   F-statistic:                 1.363e+12
-Date:                   Sun, 08 Feb 2026   Prob (F-statistic):          2.51e-157
-Time:                           13:01:26   Log-Likelihood:                 1166.8
+Date:                   Wed, 04 Mar 2026   Prob (F-statistic):          2.51e-157
+Time:                           16:57:57   Log-Likelihood:                 1166.8
 No. Observations:                    734   AIC:                            -2158.
 Df Residuals:                        646   BIC:                            -1753.
 Df Model:                             87                                         
@@ -1025,8 +1025,8 @@ Obs: 230
 Dep. Variable:            vadd_growth   R-squared:                       0.505
 Model:                            OLS   Adj. R-squared:                  0.384
 Method:                 Least Squares   F-statistic:                     105.1
-Date:                Sun, 08 Feb 2026   Prob (F-statistic):           1.38e-13
-Time:                        13:01:26   Log-Likelihood:                -911.41
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):           1.38e-13
+Time:                        16:57:57   Log-Likelihood:                -911.41
 No. Observations:                 230   AIC:                             1915.
 Df Residuals:                     184   BIC:                             2073.
 Df Model:                          45                                         
@@ -1092,5 +1092,259 @@ Kurtosis:                       3.960   Cond. No.                     2.26e+16
 Notes:
 [1] Standard Errors are robust to cluster correlation (cluster)
 [2] The smallest eigenvalue is 4.36e-30. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+........................................
+
+
+>>> Matching Strategy: Base 1958 <<<
+--------------------------------------------------
+
+[Model: TFP Response]
+Obs: 177
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   tfp5   R-squared:                       0.909
+Model:                            OLS   Adj. R-squared:                  0.859
+Method:                 Least Squares   F-statistic:                 9.250e+13
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):           1.08e-14
+Time:                        16:57:57   Log-Likelihood:                 194.85
+No. Observations:                 177   AIC:                            -263.7
+Df Residuals:                     114   BIC:                            -63.61
+Df Model:                          62                                         
+Covariance Type:              cluster                                         
+============================================================================================
+                               coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+Intercept                   -0.2769      0.137     -2.021      0.043      -0.545      -0.008
+C(year)[T.1959]              0.0602      0.004     16.138      0.000       0.053       0.067
+C(year)[T.1960]              0.0476      0.011      4.175      0.000       0.025       0.070
+C(year)[T.1961]              0.0613      0.037      1.663      0.096      -0.011       0.134
+C(year)[T.1962]              0.0424      0.072      0.589      0.556      -0.099       0.183
+C(year)[T.1963]              0.0530      0.079      0.673      0.501      -0.101       0.207
+C(year)[T.1964]              0.0746      0.095      0.788      0.431      -0.111       0.260
+C(year)[T.1965]              0.0559      0.089      0.627      0.531      -0.119       0.231
+C(year)[T.1966]              0.0875      0.053      1.654      0.098      -0.016       0.191
+C(year)[T.1967]              0.0990      0.065      1.532      0.125      -0.028       0.226
+C(year)[T.1968]              0.1238      0.084      1.470      0.142      -0.041       0.289
+C(year)[T.1969]              0.0774      0.056      1.383      0.167      -0.032       0.187
+C(year)[T.1970]              0.1374      0.057      2.392      0.017       0.025       0.250
+C(year)[T.1971]              0.1560      0.038      4.084      0.000       0.081       0.231
+C(year)[T.1972]              0.1935      0.073      2.648      0.008       0.050       0.337
+C(year)[T.1973]             -0.0848      0.081     -1.041      0.298      -0.244       0.075
+C(year)[T.1974]             -0.1149      0.096     -1.202      0.230      -0.302       0.072
+C(year)[T.1975]             -0.1735      0.017    -10.395      0.000      -0.206      -0.141
+C(year)[T.1976]             -0.1336      0.044     -3.003      0.003      -0.221      -0.046
+C(year)[T.1977]             -0.1740      0.025     -7.103      0.000      -0.222      -0.126
+C(year)[T.1978]             -0.2562      0.105     -2.447      0.014      -0.461      -0.051
+C(year)[T.1979]             -0.2293      0.067     -3.420      0.001      -0.361      -0.098
+C(year)[T.1980]             -0.2401      0.076     -3.151      0.002      -0.389      -0.091
+C(year)[T.1981]             -0.2589      0.071     -3.658      0.000      -0.398      -0.120
+C(year)[T.1982]             -0.2516      0.053     -4.737      0.000      -0.356      -0.147
+C(year)[T.1983]             -0.1543      0.063     -2.446      0.014      -0.278      -0.031
+C(year)[T.1984]             -0.0924      0.069     -1.342      0.180      -0.227       0.043
+C(year)[T.1985]             -0.1531      0.013    -11.654      0.000      -0.179      -0.127
+C(year)[T.1986]             -0.1856      0.045     -4.148      0.000      -0.273      -0.098
+C(year)[T.1987]             -0.1037      0.039     -2.685      0.007      -0.179      -0.028
+C(year)[T.1988]              0.0055      0.080      0.068      0.946      -0.151       0.162
+C(year)[T.1989]             -0.0533      0.034     -1.556      0.120      -0.120       0.014
+C(year)[T.1990]              0.0047      0.093      0.051      0.960      -0.177       0.186
+C(year)[T.1991]             -0.0036      0.106     -0.034      0.973      -0.211       0.204
+C(year)[T.1992]             -0.0495      0.027     -1.807      0.071      -0.103       0.004
+C(year)[T.1993]             -0.0320      0.020     -1.602      0.109      -0.071       0.007
+C(year)[T.1994]             -0.0697      0.039     -1.780      0.075      -0.146       0.007
+C(year)[T.1995]             -0.0152      0.053     -0.288      0.773      -0.118       0.088
+C(year)[T.1996]              0.0217      0.074      0.292      0.771      -0.124       0.167
+C(year)[T.1997]              0.0604      0.066      0.910      0.363      -0.070       0.190
+C(year)[T.1998]              0.2610      0.171      1.522      0.128      -0.075       0.597
+C(year)[T.1999]              0.1357      0.127      1.073      0.283      -0.112       0.384
+C(year)[T.2000]              0.1181      0.036      3.288      0.001       0.048       0.189
+C(year)[T.2001]              0.1266      0.025      4.979      0.000       0.077       0.176
+C(year)[T.2002]              0.2243      0.112      1.996      0.046       0.004       0.445
+C(year)[T.2003]              0.2238      0.068      3.297      0.001       0.091       0.357
+C(year)[T.2004]              0.2681      0.141      1.896      0.058      -0.009       0.545
+C(year)[T.2005]              0.2465      0.061      4.039      0.000       0.127       0.366
+C(year)[T.2006]              0.2847      0.084      3.390      0.001       0.120       0.449
+C(year)[T.2007]              0.2910      0.035      8.372      0.000       0.223       0.359
+C(year)[T.2008]              0.1314      0.066      1.982      0.047       0.001       0.261
+C(year)[T.2009]              0.0558      0.073      0.764      0.445      -0.087       0.199
+C(year)[T.2010]              0.1628      0.109      1.491      0.136      -0.051       0.377
+C(year)[T.2011]              0.2091      0.133      1.566      0.117      -0.053       0.471
+C(year)[T.2012]              0.1716      0.168      1.022      0.307      -0.158       0.501
+C(year)[T.2013]              0.1274      0.150      0.847      0.397      -0.167       0.422
+C(year)[T.2014]              0.0330      0.059      0.563      0.573      -0.082       0.148
+C(year)[T.2015]             -0.0252      0.080     -0.314      0.753      -0.182       0.132
+C(year)[T.2016]             -0.0701      0.055     -1.266      0.206      -0.179       0.038
+C(naics)[T.325180]          -0.6797      0.244     -2.784      0.005      -1.158      -0.201
+C(naics)[T.327410]           0.4628      0.084      5.504      0.000       0.298       0.628
+is_high_energy              -0.2169      0.163     -1.333      0.182      -0.536       0.102
+post_1973                    0.2388      0.060      4.001      0.000       0.122       0.356
+is_high_energy:post_1973     0.0693      0.074      0.935      0.350      -0.076       0.215
+log_emp                      0.4819      0.131      3.688      0.000       0.226       0.738
+==============================================================================
+Omnibus:                        1.503   Durbin-Watson:                   0.834
+Prob(Omnibus):                  0.472   Jarque-Bera (JB):                1.178
+Skew:                           0.014   Prob(JB):                        0.555
+Kurtosis:                       3.399   Cond. No.                     4.84e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The smallest eigenvalue is 7.59e-31. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+........................................
+
+[Model: Energy Intensity]
+Obs: 177
+                              OLS Regression Results                             
+=================================================================================
+Dep. Variable:     real_energy_intensity   R-squared:                       0.911
+Model:                               OLS   Adj. R-squared:                  0.862
+Method:                    Least Squares   F-statistic:                 5.758e+11
+Date:                   Wed, 04 Mar 2026   Prob (F-statistic):           1.74e-12
+Time:                           16:57:57   Log-Likelihood:                 222.10
+No. Observations:                    177   AIC:                            -318.2
+Df Residuals:                        114   BIC:                            -118.1
+Df Model:                             62                                         
+Covariance Type:                 cluster                                         
+============================================================================================
+                               coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+Intercept                    0.0420      0.256      0.164      0.869      -0.459       0.543
+C(year)[T.1959]             -0.0333      0.028     -1.180      0.238      -0.089       0.022
+C(year)[T.1960]             -0.0430      0.030     -1.418      0.156      -0.103       0.016
+C(year)[T.1961]             -0.0376      0.039     -0.969      0.333      -0.114       0.038
+C(year)[T.1962]             -0.0384      0.029     -1.306      0.192      -0.096       0.019
+C(year)[T.1963]             -0.0077      0.021     -0.370      0.712      -0.049       0.033
+C(year)[T.1964]             -0.0094      0.024     -0.386      0.699      -0.057       0.038
+C(year)[T.1965]              0.0020      0.022      0.090      0.928      -0.042       0.046
+C(year)[T.1966]              0.0067      0.024      0.273      0.785      -0.041       0.055
+C(year)[T.1967]              0.0675      0.067      1.007      0.314      -0.064       0.199
+C(year)[T.1968]              0.0758      0.063      1.205      0.228      -0.047       0.199
+C(year)[T.1969]              0.0816      0.078      1.051      0.293      -0.071       0.234
+C(year)[T.1970]              0.0718      0.062      1.150      0.250      -0.051       0.194
+C(year)[T.1971]              0.0668      0.049      1.356      0.175      -0.030       0.163
+C(year)[T.1972]              0.0589      0.055      1.063      0.288      -0.050       0.167
+C(year)[T.1973]              0.0353      0.066      0.530      0.596      -0.095       0.166
+C(year)[T.1974]              0.0766      0.118      0.646      0.518      -0.156       0.309
+C(year)[T.1975]              0.1064      0.095      1.118      0.264      -0.080       0.293
+C(year)[T.1976]              0.1185      0.115      1.035      0.301      -0.106       0.343
+C(year)[T.1977]              0.1423      0.143      0.993      0.321      -0.139       0.423
+C(year)[T.1978]              0.1388      0.153      0.907      0.365      -0.161       0.439
+C(year)[T.1979]              0.0987      0.115      0.857      0.391      -0.127       0.324
+C(year)[T.1980]              0.1097      0.140      0.784      0.433      -0.164       0.384
+C(year)[T.1981]              0.1485      0.151      0.981      0.327      -0.148       0.445
+C(year)[T.1982]              0.1544      0.134      1.156      0.248      -0.107       0.416
+C(year)[T.1983]              0.1302      0.127      1.023      0.306      -0.119       0.379
+C(year)[T.1984]              0.0898      0.090      0.993      0.320      -0.087       0.267
+C(year)[T.1985]              0.0787      0.090      0.875      0.382      -0.098       0.255
+C(year)[T.1986]              0.0498      0.075      0.663      0.508      -0.098       0.197
+C(year)[T.1987]              0.0330      0.066      0.497      0.619      -0.097       0.163
+C(year)[T.1988]              0.0210      0.035      0.595      0.552      -0.048       0.090
+C(year)[T.1989]              0.0004      0.044      0.010      0.992      -0.087       0.088
+C(year)[T.1990]             -0.0316      0.010     -3.288      0.001      -0.050      -0.013
+C(year)[T.1991]             -0.0236      0.011     -2.190      0.029      -0.045      -0.002
+C(year)[T.1992]              0.0125      0.046      0.271      0.787      -0.078       0.103
+C(year)[T.1993]              0.0130      0.041      0.319      0.749      -0.067       0.093
+C(year)[T.1994]             -0.0744      0.083     -0.899      0.369      -0.237       0.088
+C(year)[T.1995]             -0.0747      0.079     -0.951      0.342      -0.229       0.079
+C(year)[T.1996]             -0.0662      0.055     -1.197      0.231      -0.175       0.042
+C(year)[T.1997]             -0.0286      0.022     -1.318      0.187      -0.071       0.014
+C(year)[T.1998]             -0.0325      0.022     -1.493      0.135      -0.075       0.010
+C(year)[T.1999]             -0.0489      0.022     -2.268      0.023      -0.091      -0.007
+C(year)[T.2000]             -0.0567      0.038     -1.493      0.135      -0.131       0.018
+C(year)[T.2001]             -0.0667      0.053     -1.269      0.204      -0.170       0.036
+C(year)[T.2002]             -0.0374      0.048     -0.778      0.437      -0.131       0.057
+C(year)[T.2003]             -0.0593      0.068     -0.871      0.384      -0.193       0.074
+C(year)[T.2004]             -0.0686      0.087     -0.784      0.433      -0.240       0.103
+C(year)[T.2005]             -0.0576      0.073     -0.792      0.429      -0.200       0.085
+C(year)[T.2006]             -0.0660      0.112     -0.592      0.554      -0.285       0.153
+C(year)[T.2007]             -0.0514      0.086     -0.599      0.549      -0.219       0.117
+C(year)[T.2008]             -0.0189      0.136     -0.140      0.889      -0.285       0.247
+C(year)[T.2009]             -0.0670      0.118     -0.569      0.570      -0.298       0.164
+C(year)[T.2010]             -0.0778      0.108     -0.720      0.472      -0.290       0.134
+C(year)[T.2011]             -0.0863      0.120     -0.718      0.473      -0.322       0.149
+C(year)[T.2012]             -0.0610      0.120     -0.510      0.610      -0.295       0.173
+C(year)[T.2013]             -0.0786      0.105     -0.749      0.454      -0.284       0.127
+C(year)[T.2014]             -0.0858      0.088     -0.978      0.328      -0.258       0.086
+C(year)[T.2015]             -0.0764      0.087     -0.878      0.380      -0.247       0.094
+C(year)[T.2016]             -0.0832      0.093     -0.893      0.372      -0.266       0.099
+C(naics)[T.325180]           0.0035      0.361      0.010      0.992      -0.704       0.711
+C(naics)[T.327410]           0.2770      0.128      2.168      0.030       0.027       0.527
+is_high_energy               0.2805      0.235      1.193      0.233      -0.180       0.741
+post_1973                    0.0781      0.034      2.297      0.022       0.011       0.145
+is_high_energy:post_1973    -0.0712      0.087     -0.820      0.412      -0.241       0.099
+log_emp                     -0.0370      0.195     -0.190      0.850      -0.419       0.345
+==============================================================================
+Omnibus:                        1.332   Durbin-Watson:                   0.234
+Prob(Omnibus):                  0.514   Jarque-Bera (JB):                1.425
+Skew:                           0.192   Prob(JB):                        0.490
+Kurtosis:                       2.784   Cond. No.                     4.84e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The smallest eigenvalue is 7.59e-31. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+........................................
+
+[Model: VADD Growth (Short Run)]
+Obs: 81
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:            vadd_growth   R-squared:                       0.338
+Model:                            OLS   Adj. R-squared:                 -0.059
+Method:                 Least Squares   F-statistic:                   0.07083
+Date:                Wed, 04 Mar 2026   Prob (F-statistic):              0.934
+Time:                        16:57:57   Log-Likelihood:                -302.16
+No. Observations:                  81   AIC:                             666.3
+Df Residuals:                      50   BIC:                             740.5
+Df Model:                          30                                         
+Covariance Type:              cluster                                         
+============================================================================================
+                               coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+Intercept                    0.3303      5.944      0.056      0.956     -11.319      11.980
+C(year)[T.1960]             -3.7841     16.622     -0.228      0.820     -36.363      28.795
+C(year)[T.1961]            -12.0461      7.715     -1.561      0.118     -27.167       3.074
+C(year)[T.1962]            -12.2947      9.418     -1.305      0.192     -30.753       6.164
+C(year)[T.1963]             -4.4261     17.162     -0.258      0.796     -38.064      29.212
+C(year)[T.1964]             -9.5272      4.598     -2.072      0.038     -18.539      -0.516
+C(year)[T.1965]             -4.3383     16.678     -0.260      0.795     -37.026      28.349
+C(year)[T.1966]            -10.6547      7.004     -1.521      0.128     -24.382       3.072
+C(year)[T.1967]            -10.2639     20.643     -0.497      0.619     -50.724      30.196
+C(year)[T.1968]             -9.7890      7.254     -1.350      0.177     -24.006       4.428
+C(year)[T.1969]             -3.9645     16.535     -0.240      0.811     -36.373      28.444
+C(year)[T.1970]            -16.4363      3.031     -5.423      0.000     -22.377     -10.495
+C(year)[T.1971]             -9.9496     12.909     -0.771      0.441     -35.250      15.351
+C(year)[T.1972]             -2.7584      5.992     -0.460      0.645     -14.502       8.985
+C(year)[T.1973]            -12.3463     20.528     -0.601      0.548     -52.581      27.888
+C(year)[T.1974]              4.2045      4.899      0.858      0.391      -5.398      13.807
+C(year)[T.1975]              0.1371     12.507      0.011      0.991     -24.376      24.650
+C(year)[T.1976]             18.2785     22.282      0.820      0.412     -25.394      61.951
+C(year)[T.1977]             -0.3136      5.847     -0.054      0.957     -11.774      11.147
+C(year)[T.1978]             -2.2616      8.232     -0.275      0.784     -18.397      13.874
+C(year)[T.1979]             -5.4167      2.997     -1.807      0.071     -11.291       0.457
+C(year)[T.1980]             -3.4176      7.779     -0.439      0.660     -18.663      11.828
+C(year)[T.1981]             -7.2556      4.665     -1.555      0.120     -16.400       1.888
+C(year)[T.1982]            -14.4202      6.547     -2.203      0.028     -27.251      -1.589
+C(year)[T.1983]              6.3188      1.697      3.724      0.000       2.994       9.644
+C(year)[T.1984]              4.8230     16.141      0.299      0.765     -26.813      36.459
+C(year)[T.1985]              0.1801      4.715      0.038      0.970      -9.062       9.422
+C(naics)[T.325180]         -22.2869     12.823     -1.738      0.082     -47.420       2.846
+C(naics)[T.327410]           5.5440      4.644      1.194      0.233      -3.558      14.646
+is_high_energy             -16.7428      8.181     -2.047      0.041     -32.776      -0.709
+post_1973                  -11.4898      9.997     -1.149      0.250     -31.084       8.104
+is_high_energy:post_1973     1.4106      1.571      0.898      0.369      -1.668       4.489
+log_emp                     11.2750      6.772      1.665      0.096      -1.998      24.548
+==============================================================================
+Omnibus:                        5.054   Durbin-Watson:                   1.984
+Prob(Omnibus):                  0.080   Jarque-Bera (JB):                5.865
+Skew:                          -0.238   Prob(JB):                       0.0533
+Kurtosis:                       4.229   Cond. No.                     1.26e+17
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The smallest eigenvalue is 5.35e-32. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 ........................................
