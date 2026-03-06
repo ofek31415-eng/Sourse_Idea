@@ -12,7 +12,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.805
 Model:                            OLS   Adj. R-squared:                  0.799
 Method:                 Least Squares   F-statistic:                     28.78
 Date:                Thu, 05 Mar 2026   Prob (F-statistic):           1.25e-53
-Time:                        13:13:58   Log-Likelihood:                 5508.6
+Time:                        20:10:56   Log-Likelihood:                 5508.6
 No. Observations:                6342   AIC:                        -1.063e+04
 Df Residuals:                    6148   BIC:                            -9319.
 Df Model:                         193                                         
@@ -239,7 +239,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.812
 Model:                            OLS   Adj. R-squared:                  0.806
 Method:                 Least Squares   F-statistic:                     31.92
 Date:                Thu, 05 Mar 2026   Prob (F-statistic):           2.29e-58
-Time:                        13:13:59   Log-Likelihood:                 5785.7
+Time:                        20:10:56   Log-Likelihood:                 5785.7
 No. Observations:                6636   AIC:                        -1.117e+04
 Df Residuals:                    6435   BIC:                            -9803.
 Df Model:                         200                                         
@@ -473,7 +473,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.844
 Model:                            OLS   Adj. R-squared:                  0.839
 Method:                 Least Squares   F-statistic:                     34.04
 Date:                Thu, 05 Mar 2026   Prob (F-statistic):           6.67e-63
-Time:                        13:13:59   Log-Likelihood:                 6352.1
+Time:                        20:10:57   Log-Likelihood:                 6352.1
 No. Observations:                7056   AIC:                        -1.228e+04
 Df Residuals:                    6845   BIC:                        -1.083e+04
 Df Model:                         210                                         
@@ -717,7 +717,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.812
 Model:                            OLS   Adj. R-squared:                  0.806
 Method:                 Least Squares   F-statistic:                     27.74
 Date:                Thu, 05 Mar 2026   Prob (F-statistic):           1.36e-52
-Time:                        13:13:59   Log-Likelihood:                 5562.7
+Time:                        20:10:58   Log-Likelihood:                 5562.7
 No. Observations:                6342   AIC:                        -1.074e+04
 Df Residuals:                    6148   BIC:                            -9427.
 Df Model:                         193                                         
@@ -944,7 +944,7 @@ Dep. Variable:                   tfp5   R-squared:                       0.844
 Model:                            OLS   Adj. R-squared:                  0.837
 Method:                 Least Squares   F-statistic:                     794.8
 Date:                Thu, 05 Mar 2026   Prob (F-statistic):          2.06e-312
-Time:                        13:14:00   Log-Likelihood:                 8726.6
+Time:                        20:10:59   Log-Likelihood:                 8726.6
 No. Observations:                9178   AIC:                        -1.669e+04
 Df Residuals:                    8797   BIC:                        -1.398e+04
 Df Model:                         380                                         
