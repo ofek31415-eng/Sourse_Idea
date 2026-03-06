@@ -1633,5 +1633,4 @@ if 'matched_datasets' in locals():
     print("Done! Open the PDF to see the consistent story across all methods.")
 else:
     print("Error: 'matched_datasets' dictionary is missing. Please run the PSM matching cell first.")
-
-
+    
