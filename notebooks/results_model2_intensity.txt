@@ -11,8 +11,8 @@ Observations: 6342
 Dep. Variable:     real_energy_intensity   R-squared:                       0.893
 Model:                               OLS   Adj. R-squared:                  0.890
 Method:                    Least Squares   F-statistic:                     14.45
-Date:                   Sun, 22 Mar 2026   Prob (F-statistic):           2.18e-35
-Time:                           16:54:54   Log-Likelihood:                 13817.
+Date:                   Fri, 27 Mar 2026   Prob (F-statistic):           2.18e-35
+Time:                           11:44:24   Log-Likelihood:                 13817.
 No. Observations:                   6342   AIC:                        -2.725e+04
 Df Residuals:                       6148   BIC:                        -2.594e+04
 Df Model:                            193                                         
@@ -238,8 +238,8 @@ Observations: 6636
 Dep. Variable:     real_energy_intensity   R-squared:                       0.898
 Model:                               OLS   Adj. R-squared:                  0.895
 Method:                    Least Squares   F-statistic:                     12.69
-Date:                   Sun, 22 Mar 2026   Prob (F-statistic):           4.07e-33
-Time:                           16:54:54   Log-Likelihood:                 14394.
+Date:                   Fri, 27 Mar 2026   Prob (F-statistic):           4.07e-33
+Time:                           11:44:24   Log-Likelihood:                 14394.
 No. Observations:                   6636   AIC:                        -2.839e+04
 Df Residuals:                       6435   BIC:                        -2.702e+04
 Df Model:                            200                                         
@@ -472,8 +472,8 @@ Observations: 7056
 Dep. Variable:     real_energy_intensity   R-squared:                       0.856
 Model:                               OLS   Adj. R-squared:                  0.851
 Method:                    Least Squares   F-statistic:                     11.58
-Date:                   Sun, 22 Mar 2026   Prob (F-statistic):           5.70e-32
-Time:                           16:54:54   Log-Likelihood:                 12014.
+Date:                   Fri, 27 Mar 2026   Prob (F-statistic):           5.70e-32
+Time:                           11:44:25   Log-Likelihood:                 12014.
 No. Observations:                   7056   AIC:                        -2.361e+04
 Df Residuals:                       6845   BIC:                        -2.216e+04
 Df Model:                            210                                         
@@ -716,8 +716,8 @@ Observations: 6342
 Dep. Variable:     real_energy_intensity   R-squared:                       0.860
 Model:                               OLS   Adj. R-squared:                  0.856
 Method:                    Least Squares   F-statistic:                     15.31
-Date:                   Sun, 22 Mar 2026   Prob (F-statistic):           7.96e-37
-Time:                           16:54:55   Log-Likelihood:                 11475.
+Date:                   Fri, 27 Mar 2026   Prob (F-statistic):           7.96e-37
+Time:                           11:44:25   Log-Likelihood:                 11475.
 No. Observations:                   6342   AIC:                        -2.256e+04
 Df Residuals:                       6148   BIC:                        -2.125e+04
 Df Model:                            193                                         
@@ -943,8 +943,8 @@ Observations: 9178
 Dep. Variable:     real_energy_intensity   R-squared:                       0.978
 Model:                               OLS   Adj. R-squared:                  0.977
 Method:                    Least Squares   F-statistic:                 1.422e+05
-Date:                   Sun, 22 Mar 2026   Prob (F-statistic):               0.00
-Time:                           16:54:56   Log-Likelihood:                 19532.
+Date:                   Fri, 27 Mar 2026   Prob (F-statistic):               0.00
+Time:                           11:44:26   Log-Likelihood:                 19532.
 No. Observations:                   9178   AIC:                        -3.830e+04
 Df Residuals:                       8797   BIC:                        -3.559e+04
 Df Model:                            380                                         
