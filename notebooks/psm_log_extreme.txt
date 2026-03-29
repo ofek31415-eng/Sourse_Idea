@@ -1164,3 +1164,81 @@
 --- Starting PSM: Mode=static, Base=1958 ---
 [Year BASE] Dropped: 17  | Kept: 2  
    -> Selected 3 industries total.
+
+--- Starting PSM: Mode=static, Base=range(1968, 1973) ---
+[Year BASE] Dropped: 17  | Kept: 2  
+   -> Selected 3 industries total.
+
+--- Starting PSM: Mode=static, Base=range(1958, 1973) ---
+[Year BASE] Dropped: 17  | Kept: 2  
+   -> Selected 3 industries total.
+
+--- Starting PSM: Mode=static, Base=1972 ---
+[Year BASE] Dropped: 14  | Kept: 5  
+   -> Selected 7 industries total.
+
+--- Starting PSM: Mode=dynamic, Base=None ---
+   Year       Status                        
+[Year 1958] Dropped: 17  | Kept: 2  
+[Year 1959] Dropped: 17  | Kept: 2  
+[Year 1960] Dropped: 17  | Kept: 2  
+[Year 1961] Dropped: 17  | Kept: 2  
+[Year 1962] Dropped: 16  | Kept: 3  
+[Year 1963] Dropped: 17  | Kept: 2  
+[Year 1964] Dropped: 16  | Kept: 3  
+[Year 1965] Dropped: 17  | Kept: 2  
+[Year 1966] Dropped: 16  | Kept: 3  
+[Year 1967] Dropped: 17  | Kept: 2  
+[Year 1968] Dropped: 15  | Kept: 4  
+[Year 1969] Dropped: 16  | Kept: 3  
+[Year 1970] Dropped: 16  | Kept: 3  
+[Year 1971] Dropped: 17  | Kept: 2  
+[Year 1972] Dropped: 14  | Kept: 5  
+[Year 1973] Dropped: 9   | Kept: 10 
+[Year 1974] Dropped: 11  | Kept: 8  
+[Year 1975] Dropped: 14  | Kept: 5  
+[Year 1976] Dropped: 17  | Kept: 2  
+[Year 1977] Dropped: 12  | Kept: 7  
+[Year 1978] Dropped: 11  | Kept: 8  
+[Year 1979] Dropped: 14  | Kept: 5  
+[Year 1980] Dropped: 15  | Kept: 4  
+[Year 1981] Dropped: 15  | Kept: 4  
+[Year 1982] Dropped: 15  | Kept: 4  
+[Year 1983] Dropped: 15  | Kept: 4  
+[Year 1984] Dropped: 11  | Kept: 8  
+[Year 1985] Dropped: 11  | Kept: 8  
+[Year 1986] Dropped: 13  | Kept: 6  
+[Year 1987] Dropped: 16  | Kept: 3  
+[Year 1988] Dropped: 9   | Kept: 10 
+[Year 1989] Dropped: 13  | Kept: 6  
+[Year 1990] Dropped: 14  | Kept: 5  
+[Year 1991] Dropped: 8   | Kept: 11 
+[Year 1992] Dropped: 8   | Kept: 11 
+[Year 1993] Dropped: 15  | Kept: 4  
+[Year 1994] Dropped: 12  | Kept: 7  
+[Year 1995] Dropped: 8   | Kept: 11 
+[Year 1996] Dropped: 13  | Kept: 6  
+[Year 1997] Dropped: 13  | Kept: 6  
+[Year 1998] Dropped: 12  | Kept: 7  
+[Year 1999] Dropped: 12  | Kept: 7  
+[Year 2000] Dropped: 9   | Kept: 10 
+[Year 2001] Dropped: 10  | Kept: 9  
+[Year 2002] Dropped: 12  | Kept: 7  
+[Year 2003] Dropped: 13  | Kept: 6  
+[Year 2004] Dropped: 13  | Kept: 6  
+[Year 2005] Dropped: 11  | Kept: 8  
+[Year 2006] Dropped: 10  | Kept: 9  
+[Year 2007] Dropped: 11  | Kept: 8  
+[Year 2008] Dropped: 5   | Kept: 14 
+[Year 2009] Dropped: 8   | Kept: 11 
+[Year 2010] Dropped: 7   | Kept: 12 
+[Year 2011] Dropped: 7   | Kept: 12 
+[Year 2012] Dropped: 10  | Kept: 9  
+[Year 2013] Dropped: 10  | Kept: 9  
+[Year 2014] Dropped: 12  | Kept: 7  
+[Year 2015] Dropped: 12  | Kept: 7  
+[Year 2016] Dropped: 13  | Kept: 6  
+
+--- Starting PSM: Mode=static, Base=1958 ---
+[Year BASE] Dropped: 17  | Kept: 2  
+   -> Selected 3 industries total.
