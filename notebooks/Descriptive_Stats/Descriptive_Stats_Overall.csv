@@ -1,5 +1,0 @@
-,tfp5,tfp5,tfp5,tfp5,real_energy_intensity,real_energy_intensity,real_energy_intensity,real_energy_intensity,log_vadd,log_vadd,log_vadd,log_vadd,log_emp,log_emp,log_emp,log_emp,log_cap,log_cap,log_cap,log_cap,vadd_growth,vadd_growth,vadd_growth,vadd_growth
-,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max
-period,,,,,,,,,,,,,,,,,,,,,,,,
-1. Pre-Crisis (1958-1973),0.897,0.317,0.002,2.767,0.304,3.835,0.0,95.86,7.442,1.288,-1.412,11.023,3.336,1.002,-0.693,6.338,7.019,1.186,2.557,11.616,6.263,12.227,-63.564,184.962
-2. Post-Crisis (1974-1999),0.96,0.258,0.004,2.545,0.086,0.672,0.003,36.921,8.005,1.021,1.075,11.54,3.422,0.922,-0.105,6.463,7.71,1.054,3.786,11.626,2.958,13.778,-73.75,167.739
