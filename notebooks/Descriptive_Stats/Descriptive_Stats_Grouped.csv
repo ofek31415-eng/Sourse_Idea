@@ -1,0 +1,7 @@
+,,Sample_Info,Sample_Info,tfp5,tfp5,tfp5,tfp5,real_energy_intensity,real_energy_intensity,real_energy_intensity,real_energy_intensity,log_vadd,log_vadd,log_vadd,log_vadd,log_emp,log_emp,log_emp,log_emp,log_cap,log_cap,log_cap,log_cap,vadd_growth,vadd_growth,vadd_growth,vadd_growth
+,,Total_Observations,Unique_Industries,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max
+period,energy_group,,,,,,,,,,,,,,,,,,,,,,,,,,
+1. Pre-Crisis (1958-1973),High Energy,2016,126,0.739,0.29,0.002,1.807,0.844,6.538,0.015,95.86,7.179,1.597,-1.412,11.023,3.238,1.022,0.405,6.338,7.457,1.175,3.353,11.616,6.477,11.871,-34.595,85.95
+1. Pre-Crisis (1958-1973),Low Energy,1904,119,1.066,0.29,0.365,2.408,0.017,0.006,0.001,0.054,7.752,1.059,4.427,10.881,3.424,0.946,0.588,6.12,6.733,1.053,3.541,9.352,5.756,11.492,-39.878,85.781
+2. Post-Crisis (1974-1999),High Energy,3276,126,0.849,0.257,0.004,1.835,0.205,1.141,0.005,36.921,7.811,1.153,1.075,11.526,3.249,1.008,-0.105,6.311,8.087,1.057,4.887,11.626,3.749,15.688,-52.057,157.231
+2. Post-Crisis (1974-1999),Low Energy,3094,119,1.06,0.26,0.361,2.545,0.019,0.008,0.003,0.106,8.208,0.964,5.202,11.54,3.52,0.856,0.956,5.939,7.463,0.957,4.551,10.422,2.167,13.357,-73.75,167.739
