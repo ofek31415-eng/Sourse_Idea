@@ -64,7 +64,7 @@ Sourse_Idea/
 ├── .gitignore
 │
 ├── data/
-│   └── nberces5818v1_n2012.csv                      ← canonical NBER-CES dataset (1958–2000)
+│   └── nberces5818v1_n2012.csv                      ← canonical NBER-CES dataset (1958–2018)
 │
 ├── notebooks/
 │   └── 01_idea_data_analysis.ipynb                  ← all analyses; annotated with paper §
